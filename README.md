@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 </br>
-</br>
 <p>Welcome to my page! </br> I'm Bryan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906454.png" width="13"/> <b>China</b>
 </br>
 </br>
