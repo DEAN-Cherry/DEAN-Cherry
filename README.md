@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/DEAN-Cherry?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&stackoverflow=1&steam=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=14&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&stackoverflow=false&stackoverflow.user=16827925&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=76561198305413806&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=Asia%2FShanghai)
-
-
 [![Bryan's GitHub stats-Dark](https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/DEAN-Cherry/github-readme-stats#gh-dark-mode-only)
 [![Bryan's GitHub stats-Light](https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DEAN-Cherry/github-readme-stats#gh-light-mode-only)
 
 
 [![Top Langs](https://github-readme-stats-delta-ashy-73.vercel.app/api/top-langs/?username=DEAN-Cherry&langs_count=14&layout=compact)](https://github.com/DEAN-Cherry/github-readme-stats)
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
