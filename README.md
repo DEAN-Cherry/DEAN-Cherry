@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEAN-Cherry)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan's GitHub stats-Dark](https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/DEAN-Cherry/github-readme-stats#gh-dark-mode-only)
+[![Bryan's GitHub stats-Light](https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DEAN-Cherry/github-readme-stats#gh-light-mode-only)
+
+
+[![Top Langs](https://github-readme-stats-delta-ashy-73.vercel.app/api/top-langs/?username=DEAN-Cherry&langs_count=14&layout=compact)](https://github.com/DEAN-Cherry/github-readme-stats)
