@@ -44,7 +44,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+ # Options
           user: DEAN-Cherry
           template: classic
           base: header, metadata
@@ -62,7 +62,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_from: all
+          plugin_notable_from: user
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_types: commit
@@ -72,13 +72,8 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 16827925
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
-          plugin_topics_sort: stars
+          plugin_topics_sort: starred
           repositories_forks: yes
