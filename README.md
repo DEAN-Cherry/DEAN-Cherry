@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+</br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=radical">
-    <img align="right" width="50%" src="https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=radical">
+    <source
+    srcset="https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img align="right" width="50%" src="https://github-readme-stats-delta-ashy-73.vercel.app/api?username=DEAN-Cherry&show_icons=true" />
 </picture>
 
 </br>
 </br>
 </br>
-<p>Welcome to my page! </br> I'm Bryan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906454.png" width="13"/> <b>China</b>
+<p>Welcome to my page! </br> I’m Bryan — a passionate Full-Stack Developer.
 </br>
 </br>
 </br>
